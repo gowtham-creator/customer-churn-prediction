@@ -2,10 +2,12 @@
 
 <img alt="Customer Churn Prediction" src=".github/banner.svg" width="100%">
 
+Classification study predicting customer churn from account and usage attributes, with exploratory analysis in seaborn and matplotlib.
+
 <br>
 
 
-![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2023--10--31-1F2937?style=flat-square&labelColor=111827)
+![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2026--11--04-1F2937?style=flat-square&labelColor=111827)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-Jupyter Notebook project with 1 Python module. Also checked in: 1 markdown document. The sections below are read from the repository itself, 4 tracked files as of 2023-10-31.
+A churn-prediction exercise: exploratory analysis of customer account and usage features with pandas, seaborn and matplotlib, then scikit-learn classifiers to predict which customers leave.
 
 <div align="center">
 
